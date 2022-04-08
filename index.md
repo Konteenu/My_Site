@@ -1,4 +1,3 @@
-<!DOCTYPE>
 <html lang="ru">
 <head>
 <link rel="stylesheet" href="My_Site_Config.css">
