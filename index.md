@@ -2,7 +2,6 @@
 <html lang="ru">
 <head>
 <link rel="stylesheet" href="My_Site_Config.css">
-<link rel="icon" type="image/x-icon" href="Site%20images/favicon.ico">
 </head>
 <body>
 <ul>
