@@ -2,7 +2,7 @@
 <html lang="ru">
 <head>
 <link rel="stylesheet" href="https://github.com/Konteenu/My_Site.github.io/blob/main/My_Site_Config.css">
-<link rel="icon" type="image/x-icon" href="https://github.com/Konteenu/Evdokimov_Vladimir_40-02/blob/main/My_Site/favicon.ico">
+<link rel="icon" type="image/x-icon" href="https://github.com/Konteenu/My_Site.github.io/blob/main/Site%20images/favicon.ico">
 </head>
 <body>
 <ul>
