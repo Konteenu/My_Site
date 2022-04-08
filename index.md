@@ -13,5 +13,5 @@
 </ul>
 <h1>Блог о здоровой у вкусной домашней кухне</h1>
 <h3>Блог со множеством рецептов домашней кухни для тех, кто не хочет закакзывать на дом.<br>Все продкуты, используемый в готовке вы можете нейти в ближайшем магазине!</h3>
-<img src="C:/Site images/Food.png" Alt="food" width="500" height="450">
+<img src="https://github.com/Konteenu/My_Site.github.io/blob/main/Site%20images/Food.png" Alt="food" width="500" height="450">
 </html>
