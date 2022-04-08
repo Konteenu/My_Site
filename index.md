@@ -1,7 +1,7 @@
-<!DOCTYPE>
+<!DOCTYPE html>
 <html lang="ru">
 <head>
-<link rel="stylesheet" href="My_Site_Config.css">
+<link rel="stylesheet" href="My_Site_Config.css" />
 </head>
 <body>
 <ul>
