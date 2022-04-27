@@ -1,17 +1,40 @@
 <!DOCTYPE html>
-<html lang="ru">
-<head>
-<link rel="stylesheet" href="My_Site_Config.css" />
-</head>
-<body>
-<ul>
-<li><a href="#">Главная</a></li>
-<li><a href="#">Кухни</a></li>
-<li><a href="#">О сервисе</a></li>
-<li><a href="#">Контакты</a></li>
-</ul>
-<h1>Блог о здоровой у вкусной домашней кухне</h1>
-<h3>Блог со множеством рецептов домашней кухни для тех, кто не хочет закакзывать на дом.<br>Все продкуты, используемый в готовке вы можете нейти в ближайшем магазине!</h3>
-<img src="Site%20images/Food.png" Alt="food" width="500" height="450">
-</body>
+<html>
+ <head>
+    <link rel="stylesheet" href="main.css">
+   <link rel="stylesheet" href="bootstrap.css">
+  <meta charset="utf-8">
+  <title>Пример веб-страницы</title>
+ </head>
+ <body>
+    <div class="header">
+        <div class="container">
+            <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
+              <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
+                <img src="Logo.svg" alt="" style="height: 100px;" class="bi">
+                <span class="fs-1 l_t">Happy Kitchen</span>
+              </a>
+        
+              <ul class="nav nav-pills">
+                <li class="nav-item"><a href="#" class="nav-link" aria-current="page">Главная</a></li>
+                <li class="nav-item"><a href="#" class="nav-link">Кухни</a></li>
+                <li class="nav-item"><a href="#" class="nav-link">О сервисе</a></li>
+                <li class="nav-item"><a href="#" class="nav-link">Контакты</a></li>
+              </ul>
+            </header>
+          </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col align-self-startr">
+              <h1 class="pb-3" style="margin-bottom: 5%;  margin-top: 10%; font-size: 64px; font-weight: bolder;">Блог о здоровой и<br> вкусной домашней<br> кухне</h1>
+              <p class="p_cl">Блог с множеством рецептов домашней кухни для тех, кто не хочет заказывать на дом.Все продукты, используемые в готовке вы можете найти в ближайшем магазине!</p>
+              <button style="padding-bottom: 2%; padding-left: 10%; padding-right: 10%;  font-size: 40px; border-radius: 40px;" class="mt-5 btn btn-danger">Начать готовить!</button>
+            </div>
+            <div class="col">
+              <img class="img_m" src="—Pngtree—hot pot dishes_2715888.png" alt="">
+            </div>
+          </div>
+    </div>
+ </body>
 </html>
